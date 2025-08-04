@@ -24,9 +24,9 @@ Screenshot
 
 Screenshot of the solution
 
-[Desktop solution](.images/desktopSc.png)
+[Desktop solution](.images/desktopSc.png.png)
 
-[Mobile Solution](.images/mobileSc.png)
+[Mobile Solution](.images/mobileSc.png.png)
 
 Links
 
