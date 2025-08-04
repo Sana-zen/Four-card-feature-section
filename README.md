@@ -6,7 +6,6 @@ This is my solution to the [Four card feature section on frontend mentor](https:
 📋 Table of Contents
 - Overview
 - The Challenge
-- Screenshot
 - Links
 - My Process
 - Built With
@@ -19,14 +18,6 @@ The Challenge
 Users should be able to:
 - View the optimal layout for the site depending on their device's screen size
 - Understand the visual hierarchy and purpose of each card through clear design and structure
-
-Screenshot
-
-Screenshot of the solution
-
-[Desktop solution](.images/desktopSc.png.png)
-
-[Mobile Solution](.images/mobileSc.png.png)
 
 Links
 
