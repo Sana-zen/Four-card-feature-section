@@ -7,6 +7,7 @@ This is my solution to the [Four card feature section on frontend mentor](https:
 - Overview
 - The Challenge
 - Links
+- Screenshot
 - My Process
 - Built With
 - Continued Development
@@ -30,7 +31,8 @@ Built With
 - Semantic HTML5
 - CSS Grid & Flexbox
 
-
+Screenshot
+![Screenshot](images/desktopSc.png.png)
 
 Continued Development
 
